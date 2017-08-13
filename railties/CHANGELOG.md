@@ -1,3 +1,8 @@
+*   Fix `--api` option of the app generator.
+    It can't use javascript in api mode. Action cable should be disabled by default.
+
+    *Yoshiyuki Hirano*
+
 *   Optimize indentation for generator actions.
 
     *Yoshiyuki Hirano*
